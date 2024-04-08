@@ -16,3 +16,6 @@ python script.py
 
 
 curl -H "Authorization: Bearer 1cb123f74a6adc388c6a471e0778afb35197e8a7" "https://api.dagshub.com/sbadgujar1019/End-to-End-Kidney-Disease-Classification-Deep-Learning.mlflow"
+
+
+AWS - 848477405825.dkr.ecr.eu-north-1.amazonaws.com/kidney
