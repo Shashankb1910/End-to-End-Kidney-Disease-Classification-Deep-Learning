@@ -1,4 +1,6 @@
-# End-to-End-Kidney-Disease-Classification-using-Mlflow-and-DVC
+# End-to-End-Kidney-Tumor-Classification-using-Mlflow-and-DVC
+
+### This project employs deep learning techniques to classify kidney tumors using MRI scans. Utilizing TensorFlow with a VGG16 model and Softmax activation, it achieves accurate tumor identification. Integrated with MLflow and DVC for experiment tracking and data versioning, the project also features a Flask web application hosted on AWS EC2. The CI/CD pipeline ensures seamless deployment and updates, making it a comprehensive solution for medical image classification.
 
 instead of using train test split using keras data generator in stage 03 model_training
 
